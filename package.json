@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/abbareg/bits#readme",
   "devDependencies": {
-    "pm2": "^2.7.1"
+    "pm2": "^5.2.2"
   },
   "dependencies": {
     "bitx": "^1.5.1",
